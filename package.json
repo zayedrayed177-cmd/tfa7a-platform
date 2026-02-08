@@ -1,0 +1,15 @@
+{
+  "name": "tfa7a-platform",
+  "version": "1.0.0",
+  "description": "منصة تفاحة لإدارة اشتراكات ون سنك",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "discord.js": "^14.14.1",
+    "@prisma/client": "^5.7.0"
+  }
+}
