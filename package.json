@@ -12,4 +12,8 @@
     "discord.js": "^14.14.1",
     "@prisma/client": "^5.7.0"
   }
+  "main": "src/server.js",
+"scripts": {
+  "start": "node src/server.js"
+}
 }
